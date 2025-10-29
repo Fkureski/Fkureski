@@ -6,7 +6,7 @@
 - 🎓 Currently studying Information Systems at **PUCPR**
 - 🧠 Trainee at **ExxonMobil**, working with **ServiceNow** and **project managing**
 - 💡 Enthusiastic about **Full-Stack Development** and **Data Engineering**
-- 🎯 24 years old
+- 🎯 25 years old
 - 🌐 Languages:
   - Portuguese: Native
   - English: Fluent
